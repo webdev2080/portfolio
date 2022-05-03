@@ -1,5 +1,5 @@
 # Welcome to my Portfolio!
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0afec25c-4926-4c10-91ce-41f53352c425/deploy-status)](https://app.netlify.com/sites/ryanhelferich/deploys)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
