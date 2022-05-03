@@ -1,7 +1,13 @@
 
 function App() {
   return (
-    <div className="App">Ryan Helferich</div>
+    <main>
+      <Navbar/>
+      <About/>
+      <Projects/>
+      <Skills/>
+      <Contact/>
+    </main>
   );
 }
 
