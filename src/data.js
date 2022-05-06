@@ -5,7 +5,7 @@ export const projects = [
     {
         title: "CryptoViewer",
         subtitle: "Electron.JS | CoinAPI.io",
-        description: "Native desktop application to track current cryptocoin pricing.",
+        description: "Native desktop application to track current cryptocoin pricing. (In Progress)",
         image: require('./imgs/project-1.gif'),
         link: ""
     },
