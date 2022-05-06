@@ -22,7 +22,21 @@ export const projects = [
         description: "Multiplayer RPG Game Backend System",
         image: require('./imgs/LuaRpg.gif'),
         link: "https://github.com/webdev2080/Lua_mmorpg"
-    }
+    },
+    {
+        title: "Rescue Animal Search",
+        subtitle: "Python | Dash | Mongo",
+        description: "Full Stack Rescue Animal Tracking",
+        image: require('./imgs/gravioso.PNG'),
+        link: "https://github.com/webdev2080/RescueAnimalApplication"
+    },
+    {
+        title: "OpenGL Object Designs",
+        subtitle: "C++ | C | OpenGL",
+        description: "Designing of Multi-Piece Objects in OpenGL",
+        image: require('./imgs/opengl.png'),
+        link: "https://github.com/webdev2080/OpenGL-3D-Scene"
+    },
 
 ];
 
@@ -37,5 +51,5 @@ export const skills = [
     "SQL",
     "Postgres",
     "MongoDB",
-    "Express"
+    "Express", "Python", "Dash"
 ]
